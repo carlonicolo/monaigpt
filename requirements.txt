@@ -1,0 +1,13 @@
+streamlit
+streamlit-chat==0.0.2.2
+urllib3==1.26.15
+PyYAML==6.0
+regex==2023.5.5
+langchain==0.0.161
+chromadb==0.3.21
+openai==0.27.6
+pypdf==3.8.1
+requests==2.29.0
+tiktoken==0.4.0
+unstructured==0.6.3
+pytesseract==0.3.10
